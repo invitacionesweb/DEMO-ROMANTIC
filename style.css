@@ -23,6 +23,7 @@ cursor: pointer;
 }
 
 body {
+  width: 100vw;
     background-color: var(--color-principal);
     padding: 0;
     margin: 0;
