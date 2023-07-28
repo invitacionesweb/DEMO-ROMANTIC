@@ -349,7 +349,6 @@ header {
     background-size: cover;
     background-position: center;
     height: 40vh;
-    background-attachment: fixed;
     color: var(--color-principal);
     text-align: center;
     display: flex;
