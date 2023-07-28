@@ -22,8 +22,20 @@
 cursor: pointer;
 }
 
+/* Agregar un margen inferior a los contenidos principales para que la flecha no los cubra */
+.banner,
+.countdown,
+.ourstory,
+.bloque,
+.carousel-container,
+.dresscode,
+.mesaderegalos,
+.rsvp,
+.end {
+  margin-bottom: 60px; /* Ajusta el valor según sea necesario */
+}
+
 body {
-  width: 100vw;
     background-color: var(--color-principal);
     padding: 0;
     margin: 0;
